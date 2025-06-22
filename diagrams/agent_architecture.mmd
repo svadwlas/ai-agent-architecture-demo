@@ -1,1 +1,7 @@
-
+graph TD
+    Input[User Input] --> Planner
+    Planner -->|Tasks| Orchestrator
+    Orchestrator --> Toolset
+    Orchestrator --> Memory
+    Toolset --> Output[Structured Response]
+    Memory --> Planner
