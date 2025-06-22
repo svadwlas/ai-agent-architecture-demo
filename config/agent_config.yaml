@@ -1,1 +1,10 @@
 
+agent:
+  name: "EnterpriseAutomationAgent"
+  model: "gpt-4"
+  memory_type: "short-term"
+  planner: true
+  tools:
+    - search
+    - summarize
+    - classify
