@@ -35,8 +35,8 @@ See `/diagrams` for Mermaid + PNG architecture diagrams
 
 ## 👤 Author
 
-Created by Shatrugna Vad – Enterprise Architect | AI/Automation | Cloud/Data Strategy  
-[LinkedIn](https://www.linkedin.com/in/your-link)
+Created by Sha Vadwalas – Director/Principal Enterprise Architect | AI/Automation | Cloud/Data Strategy  
+[LinkedIn](https://www.linkedin.com/in/sha-v-0557a118/)
 
 ## 📜 License
 
